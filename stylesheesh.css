@@ -1,0 +1,103 @@
+
+body {
+    background-color: #FAF8F8;
+}
+.app{
+    width: 1em;
+    height: auto;
+    border-radius: .1em;
+    background-color: black;
+}
+#backdrop {
+    width: 100%;
+}
+
+#Useful {
+    position: absolute;
+    width: 117px;
+    height: 25px;
+    left: 65px;
+    top: 215px;
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    text-align: center;
+}
+
+#aboutus{
+    position: absolute;
+    width: 117px;
+    height: 25px;
+    left: 328px;
+    top: 215px;
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+#galleryp {
+    position: absolute;
+    width: 117px;
+    height: 25px;
+    left: 595px;
+    top: 948px;
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+#quotesp {
+    position: absolute;
+    width: 117px;
+    height: 25px;
+    left: 795px;
+    top: 948px;
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+#chatp {
+    position: absolute;
+    width: 117px;
+    height: 2px;
+    left: 1027px;
+    top: 700px;
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+#howtohelpp {
+    position: absolute;
+    width: 117px;
+    height: 25px;
+    left: 1255px;
+    top: 700px;
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.link {
+    text-decoration: none;
+}
